@@ -26,7 +26,5 @@ public class FirstProgram {
 		}
 		
 		System.out.println(~2);
-		
-		int arr[]= {}
-	}
+		}
 }
